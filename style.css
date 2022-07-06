@@ -26,3 +26,12 @@ h2 {
     background-color: aqua;
     padding: 10px 0px;
 }
+
+section {
+    display: flow-root;
+}
+
+div {
+    width: 300px border: 15px;
+    padding: 50px margin: 20px
+}
